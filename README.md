@@ -35,3 +35,7 @@ Line 472. The default value of 1200 means it will run for 1200 hours before it s
 
 Am working on combining it with RSI in next version.
 
+DISCLAIMER: I am in no way affiliated with Binance, use at your own risk. 
+There are no warranties or guarantees expressed or implied. 
+You assume all responsibility and liability.
+
