@@ -1,5 +1,9 @@
-Simple python script that captures volume snapshots every 5 minutes.  For day traders who want to watch which pair is gaining momentum.  It is cumulative, meaning that every 5 minutes it adds or subtracts to each pair. In its default configuration, it runs for an hour (12 five minute snapshots) and then resets
-The pairs might be outdated. If Binance removes a pair, you will get an error. Check the pairs before you run it. Line 8-Line 169. Binance pairs with an initial value of 0 volume.
+Simple python script that captures volume snapshots every 5 minutes.  
+For day traders who want to watch which pair is gaining momentum.  
+It is cumulative, meaning that every 5 minutes it adds or subtracts to each pair. 
+In its default configuration, it runs for an hour (12 five minute snapshots) and then resets
+The pairs might be outdated. If Binance removes a pair, you will get an error. 
+Check the pairs before you run it. Line 8-Line 169. Binance pairs with an initial value of 0 volume.
 Line 200 – Line 267. Pairs traded on Binance. If you add/subtract some, do the same thing on lines 8-162.
 Instructions.
 I have tested it with Python 2.7. Obviously you need to have an account with Binance.
